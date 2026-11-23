@@ -1,7 +1,7 @@
 # Fintech-customer-segmentation
 
 # Fintech Customer Segmentation
-(open my project )[https://colab.research.google.com/drive/1H1luNkTpAdSnPuoIbtoT71VVEB8f-qS0?usp=sharing]
+[open project in colab](https://colab.research.google.com/drive/1H1luNkTpAdSnPuoIbtoT71VVEB8f-qS0?usp=sharing)
 ## 📌 Project Overview
 This project uses **Machine Learning (K-Means Clustering)** to segment fintech customers based on their financial and transaction behavior.
 
